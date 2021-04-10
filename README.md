@@ -7,4 +7,4 @@
 
 
 ### What is BlockChain?
-블록 체인은 
+블록 체인은 블록
